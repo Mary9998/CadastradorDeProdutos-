@@ -21,4 +21,7 @@ Este projeto é uma aplicação de gerenciamento de produtos que integra o **Str
 * **Listagem Dinâmica:** Visualização dos produtos cadastrados em formato de cards com imagens renderizadas.
 * **Gerenciamento de Inventário:** Opção para limpar a lista de produtos diretamente pela interface.
 
+
+![gravacao](https://github.com/user-attachments/assets/53aed313-4288-4292-964b-c6a666469300)
+
 ---
